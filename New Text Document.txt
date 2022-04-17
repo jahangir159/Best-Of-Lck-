@@ -1,0 +1,14 @@
+
+<i class="fa-brands fa-facebook"></i>
+You sent
+<i class="fa-brands fa-twitter"></i>
+You sent
+<font-awesome-icon icon="fa-solid fa-envelope" />
+You sent
+<font-awesome-icon icon="fa-brands fa-instagram" />
+You sent
+parsone
+You sent
+<font-awesome-icon icon="fa-solid fa-user-vneck-hair" />
+You sent
+<font-awesome-icon icon="fa-solid fa-face-smile" />
